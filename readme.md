@@ -35,6 +35,9 @@ Make sure Surprise library is installed in your Python environment:
 
 ```python
 pip install scikit-surprise
+pip install pandas
+pip install numpy
+
 ```
 
 ## Imports and Components Explanation
